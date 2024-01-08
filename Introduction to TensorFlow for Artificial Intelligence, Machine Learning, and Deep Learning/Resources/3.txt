@@ -1,0 +1,11 @@
+#Coding convolutions and pooling layers
+https://www.tensorflow.org/api_docs/python/tf/keras/layers/Conv2D
+https://www.tensorflow.org/api_docs/python/tf/keras/layers/MaxPooling2D
+
+
+#Learn more about convolutions
+https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF
+
+
+
+
